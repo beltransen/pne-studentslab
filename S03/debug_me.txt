@@ -1,0 +1,2 @@
+The error is taking place in line 9: t3 = 2 * (t0 / t1)
+The execution error corresponds to a ZeroDivisionError. It will be raised every time t1 is equal to zero.
